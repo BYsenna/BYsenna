@@ -7,7 +7,7 @@
 
 -  I’m currently working on something cool.
 -  I'am currently studying how to develop in [B7web](https://rocketseat.com.br/).
--  How to reach me: **andersonsena.cloud@gmail.com**.
+-  How to reach me: **andersonsena.cloud@gmail.com**
 <br />
 
 <p align="center">
