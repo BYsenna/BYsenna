@@ -17,7 +17,7 @@
 <br />
 
 <p align="center">
-   <a href="www.linkedin.com/in/andersonsantossena" target="_blank">
+   <a href="https://www.linkedin.com/in/andersonsantossena/" target="_blank">
     <img src="https://img.shields.io/badge/-Anderson_Sena-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
   </a>
 
